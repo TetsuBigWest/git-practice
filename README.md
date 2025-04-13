@@ -3,3 +3,4 @@
 ローカルリポ
 ブランチ
 conflict
+githubで更新
