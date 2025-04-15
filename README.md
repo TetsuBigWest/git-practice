@@ -3,4 +3,3 @@
 ローカルリポ
 ブランチ
 conflict
-conflict-remote上で更新
