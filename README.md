@@ -3,4 +3,4 @@
 ローカルリポ
 ブランチ
 conflict
-githubで更新
+conflict-remote上で更新
